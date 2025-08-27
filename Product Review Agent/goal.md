@@ -1,0 +1,1 @@
+Agent that proactively identifies and flags potential product defects and quality control issues by analyzing uploaded product images.
